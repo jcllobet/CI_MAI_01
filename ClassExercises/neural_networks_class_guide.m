@@ -3,6 +3,7 @@
 %task2.m
 %task3.m
 %task4.m
+
 %nnd2n1; %undo comment to see the output
 
 %% Create and view custom neural networks.
